@@ -35,8 +35,7 @@ The model was trained using data from the **Philippine Government's certified ro
 - **Train/Test Split:** 80/20
 
 ## 🚀 Future Improvements
-- Hyperparameter tuning with GridSearchCV
-- Include room size and ambient temperature
+- Include room size
 - Integrate real-time electricity rates
 - Improve prediction accuracy with additional data
 
